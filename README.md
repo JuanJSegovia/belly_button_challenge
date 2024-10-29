@@ -19,4 +19,7 @@ How It Works
 The dashboard dynamically updates each visualization when a new sample is selected. The data is sourced directly from an external JSON file using the D3.js library, ensuring a smooth, interactive experience.
 
 Deployment
-The application is deployed as a static website using Netlify. You can view the live dashboard here: https://glittering-treacle-bbbb6e.netlify.app/.
+The application was deployed by both Github Pages and Netlify (just to compare the two services). You can view the live dashboards here: 
+
+Github Pages: https://juanjsegovia.github.io/belly_button_challenge/
+Netlify: https://glittering-treacle-bbbb6e.netlify.app/.
