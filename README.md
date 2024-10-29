@@ -19,7 +19,4 @@ How It Works
 The dashboard dynamically updates each visualization when a new sample is selected. The data is sourced directly from an external JSON file using the D3.js library, ensuring a smooth, interactive experience.
 
 Deployment
-The application is deployed as a static website using GitHub Pages. You can view the live dashboard here.
-
-License
-This project is for educational purposes and follows the licensing terms provided by the data source.
+The application is deployed as a static website using Netlify. You can view the live dashboard here: https://glittering-treacle-bbbb6e.netlify.app/.
